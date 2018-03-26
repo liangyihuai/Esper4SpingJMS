@@ -1,4 +1,4 @@
-<a href="https://blog.csdn.net/liangyihuai"><img src="https://travis-ci.org/corsoft/esper-demo-nuclear.svg"/></a>
+<a href="https://blog.csdn.net/liangyihuai/article/details/79705357"><img src="https://travis-ci.org/corsoft/esper-demo-nuclear.svg"/></a>
 
 Esper4SpingJMS
 ==================
@@ -48,3 +48,6 @@ To run demo:
 copy `https://github.com/liangyihuai/Esper4SpingJMS.git`
 
 2. build a IDEA project by using above URL.
+
+我写了一篇中文博客：[https://blog.csdn.net/liangyihuai/article/details/79705357](https://blog.csdn.net/liangyihuai/article/details/79705357)
+
