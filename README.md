@@ -20,7 +20,11 @@ requirements
 
 You will need Maven installed and working.
 
-It is suggested to using the IDE of `Intelij IDEA` to run the project quickly. 
+It is suggested to using the IDE of `Intelij IDEA` to run the project quickly.
+
+The component of `Apache ActiveMQ` is consisted of the project. So it is needed to download the [Apache ActiveMQ](http://activemq.apache.org/activemq-5150-release.html), unzip it and double click the file of `activemq.bat` under `apache-activemq-5.15.0\bin\win64` path.(Don't worry about the installation of Apache ActiveMQ, it is very simple actually.)
+ 
+Before you run the demo, start the ActiveMQ service please.
 
 setup
 =====
@@ -36,6 +40,7 @@ To run demo:
 3. 'mvn clean install' (this will compile and build the project)
 
 4. 'mvn exec:java' (this will start running the demo - sending random temperature events)
+
 
 - method 2:
 
